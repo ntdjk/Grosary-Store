@@ -1,0 +1,33 @@
+.elementor-kit-3 {
+    --e-global-color-primary:#6EC1E4;
+    --e-global-color-secondary:#54595F;
+    --e-global-color-text:#7A7A7A;
+    --e-global-color-accent:#61CE70;
+    --e-global-color-rishi1:#333333;
+    --e-global-color-rishi2:#261f1f;
+    --e-global-color-rishi3:#ef6755;
+    --e-global-color-rishi4:#007b50;
+    --e-global-color-rishi5:#ffffff;
+    --e-global-color-rishi6:rgba(170, 170, 170, 0.2);
+    --e-global-color-rishi7:#f2f6f7;
+    --e-global-color-rishi8:#F9FBFE;
+    --e-global-color-rishi9:#ffffff;
+    --e-global-color-rishi10:#ffffff;
+    --e-global-color-rishi11:#ffffff;
+    --e-global-typography-primary-font-family:"Roboto";
+    --e-global-typography-primary-font-weight:600;
+    --e-global-typography-secondary-font-family:"Roboto Slab";
+    --e-global-typography-secondary-font-weight:400;
+    --e-global-typography-text-font-family:"Roboto";
+    --e-global-typography-text-font-weight:400;
+    --e-global-typography-accent-font-family:"Roboto";
+    --e-global-typography-accent-font-weight:500;}
+
+
+    .footer-contact {
+	border-bottom: 1px solid gray;
+	padding-bottom: 25px;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
